@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<configuration>
+<startup><supportedRuntime version="v2.0.50727"/></startup>
+<connectionStrings>
+  <add name="DBManagement" connectionString="Data Source=H:\NewDropbox\Dropbox\DungNT (1)\Backup\EnglishHelperProject\DBHelper\DBHelperGUI\bin\Debug\db\EnghlistHelperDB.sdf; Password =123456a@;" />
+</connectionStrings>
+</configuration>

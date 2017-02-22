@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<configuration>
+  <connectionStrings>
+    <add name="DBManagement" connectionString="Data Source=|DataDirectory|\db\EnghlistHelperDB.sdf; Password =123456a@;"/>
+  </connectionStrings>
+<startup><supportedRuntime version="v2.0.50727"/></startup></configuration>

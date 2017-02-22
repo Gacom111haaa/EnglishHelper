@@ -1,0 +1,40 @@
+
+
+
+
+
+
+Header checksum is valid.
+Invalid database password
+
+Header checksum is valid.
+Source      : C:\Users\Nho\Documents\Visual Studio 2012\Projects\DBHelper\DBHelper\db\EnghlistHelperDB.sdf
+Destination : n/a
+Verifying - verMajor: 4, verMinor: 0, verBuild: 8876, verPoint: 1
+Time - 2013-13-07 19:52:28.958
+
+ All Pages have valid checksum.
+Parse the db file and build list of tables ... DONE.
+Cleanup Page list ... DONE.
+Scan bad pages ... DONE.
+Parse SysObjects table ... DONE.
+Copy Tables ... DONE.
+
+
+
+
+
+Invalid database password
+
+Source      : D:\Dropbox\DungNT\Document\Project\EnglishPracticeHelper\DBHelper\db\EnghlistHelperDB.sdf
+Destination : n/a
+Verifying - verMajor: 4, verMinor: 0, verBuild: 8876, verPoint: 1
+Time - 2013-16-07 09:50:48.434
+
+Invalid database password
+
+Source      : D:\Dropbox\DungNT\Document\Project\EnglishPracticeHelper\DBHelper\db\EnghlistHelperDB.sdf
+Destination : n/a
+Verifying - verMajor: 4, verMinor: 0, verBuild: 8876, verPoint: 1
+Time - 2013-16-07 09:52:01.352
+
